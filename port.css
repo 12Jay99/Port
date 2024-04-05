@@ -136,6 +136,7 @@ ul li{
 }
 #copy{
   margin: 5vh 50vw;
+  display: flex;
 }
 .img{
   width:100px;

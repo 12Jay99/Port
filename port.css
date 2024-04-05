@@ -116,8 +116,8 @@ span2{
 }
 .tech{
   display: flex;
-  justify-content: space-around;
-  font-size:15px;
+  justify-content: space-between;
+  font-size:8px;
 }
 
 footer{

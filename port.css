@@ -116,7 +116,7 @@ span2{
 }
 .tech{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   font-size:15px;
 }
 
@@ -136,7 +136,8 @@ ul li{
   list-style: none;
 }
 #copy{
-  margin: ovh 100px;
+  margin: ovh 70vh;
+  font-size:15px;
 }
 .img{
   width:100px;

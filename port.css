@@ -127,6 +127,7 @@ footer{
 .footer {
   display: flex;
   justify-content: space-around;
+  font-size:20px;
 }
 .footer ul li a{
   text-decoration: none;
@@ -136,7 +137,7 @@ ul li{
   list-style: none;
 }
 #copy{
-  margin: 2vh 120px;
+  margin: 2vh 200px;
   font-size:7px;
 }
 .img{
